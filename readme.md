@@ -1,4 +1,4 @@
-To use this project, closne the repo in your sytem and isntall all the packeges and dependencies.
+To use this project, clone the repo in your sytem and isntall all the packeges and dependencies.
 
 This project has 2 sengments, 1st one is responisble for taking the pdf file's location that has all the FAQs ,one example FAQ pdf is there in the repo , you can use tha, so the 1st segment extracts the text from the pdf , prepare the data using NLTK for the next step, embedd the questiones and then store it to the chromadb
 
