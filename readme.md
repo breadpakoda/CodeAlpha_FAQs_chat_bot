@@ -4,4 +4,4 @@ This project has 2 sengments, 1st one is responisble for taking the pdf file's l
 
 The other semgment of the project is for quering the user's question in the chromadb, this segment finds the most similar embedding in the chromdb with the help of inbuilt cosine similarity search function of chromadb. Then the most related/similar answer is reflected on the client side.
 
-please contact- adityasing272@gmail.com for any queries
+please contact- adityasing272@gmail.com for any query
